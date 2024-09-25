@@ -3,7 +3,8 @@
 
 A simple CRUD project built for a test at Scopic Software according to their requirements.
 This project uses Python, Django, Django Rest Framework for backend and SQLite as database to be able to run it anywhere.
-The initial project was created by them, hence the project structure was already defined.
+
+The initial project was created by Scopic, hence the project structure was already defined.
 The project was maintained in a platform provided by them named Codeaid.
 
 ## Features
@@ -18,7 +19,6 @@ The project was maintained in a platform provided by them named Codeaid.
 
 ## Setup Instructions
 
-### 1. Clone the repository
 First, clone this repository to your local machine
 ```bash
 git clone https://github.com/HqShiblu/Football-Team-Api.git
