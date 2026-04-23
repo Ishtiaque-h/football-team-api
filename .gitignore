@@ -15,3 +15,7 @@ __pycache__/
 
 # SonarQube
 .scannerwork/
+
+# Exclude the .env file if it exists
+*.env
+*env
